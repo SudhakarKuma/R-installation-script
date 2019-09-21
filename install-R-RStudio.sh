@@ -1,6 +1,7 @@
 #!/bin/bash
         # Sudhakar Kumar (FOSSEE, IIT Bombay)
-	# Script for installing R and RStudio on Ubuntu 
+	# Script for installing R and RStudio v 1.1.463 on Ubuntu 16.04 
+        # A few dependencies will be required, if using different versions of Ubuntu 
         # https://support.rstudio.com/hc/en-us/articles/206569407-Older-Versions-of-RStudio
 
 

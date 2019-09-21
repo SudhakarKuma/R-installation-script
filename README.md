@@ -1,5 +1,5 @@
 ---
-title: Installation script for R and RStudio  
+title: Installation script for R and RStudio v 1.1.463 on Ubuntu 16.04 
 ---
 The script `install-R-RStudio.sh` can be used for installing **R** and **RStudio** on an **Ubuntu OS**. Please follow the steps below: 
 
